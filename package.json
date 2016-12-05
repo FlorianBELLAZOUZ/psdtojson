@@ -1,6 +1,6 @@
 {
-  "name": "psdToJson",
-  "version": "1.0.0",
+  "name": "psdtojson",
+  "version": "0.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
