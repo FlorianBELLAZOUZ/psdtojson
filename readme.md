@@ -1,8 +1,8 @@
-#psdToJson
+#PsdToJson
 
 PsdToJson is a cli application that will produce a Json from a open psd
 
-## Instalation
+## Install
 You must have nodeJs and npm and photoshop >15
 
 execute this command on a shell :
