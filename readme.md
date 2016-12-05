@@ -11,15 +11,15 @@ npm i psdtojson -g
 ``
 
 on photoshop :
-``
+
+```
 Go to Edit>Preference>Plugin
 
 check Activate distance connection
 
 write in name service : Serveur Photoshop
 write in password : password
-
-``
+```
 
 ## Usage
 
@@ -33,7 +33,7 @@ you got a export.json file on the cwd folder
 
 
 ## Output exemple
-``
+```
 {
   "doc": {
     "version": "1.4.0",
@@ -463,4 +463,4 @@ you got a export.json file on the cwd folder
     ]
   }
 }
-``
+```
